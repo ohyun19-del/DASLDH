@@ -1,0 +1,3 @@
+# Jekyll ignores folders starting with an underscore (like _app, _next, etc.) by default on GitHub Pages.
+# An empty .nojekyll file prevents GitHub Pages from using Jekyll processing,
+# ensuring all files and asset folders are served properly.
